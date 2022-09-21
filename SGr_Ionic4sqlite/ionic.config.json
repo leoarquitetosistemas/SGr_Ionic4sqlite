@@ -1,0 +1,8 @@
+{
+  "name": "devdacticSqlIon4",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
